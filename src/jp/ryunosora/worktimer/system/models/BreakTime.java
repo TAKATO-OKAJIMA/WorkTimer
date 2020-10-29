@@ -1,4 +1,4 @@
-package jp.ryunosora.worktimer.system.data;
+package jp.ryunosora.worktimer.system.models;
 
 import jp.ryunosora.worktimer.system.config.ConfigReader;
 
